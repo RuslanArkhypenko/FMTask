@@ -1,0 +1,6 @@
+framework module Pods_FMTaskUITests {
+  umbrella header "Pods-FMTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
